@@ -1,0 +1,2 @@
+https://medium.com/@zakariasaif/guide-to-programming-paradigms-in-golang-go-eff42b678a40#:~:text=Go%20is%20a%20programming%20language,support%20for%20object%2Doriented%20programming.
+
